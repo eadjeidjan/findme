@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -12,4 +13,20 @@
         "league/oauth2-google": "~1.0",
         "league/oauth2-facebook": "~1.0"
     }
+=======
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "kriswallsmith/buzz": "*",
+        "omnipay/paypal": "~2.0",
+        "omnipay/authorizenet": "~2.0",
+        "omnipay/stripe": "~2.0",
+        "omnipay/payu": "~2.0",
+        "facebook/php-sdk-v4": "~5.0",
+        "stichoza/google-translate-php": "~3.2",
+        "league/oauth2-google": "~1.0",
+        "league/oauth2-facebook": "~1.0"
+    }
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 }

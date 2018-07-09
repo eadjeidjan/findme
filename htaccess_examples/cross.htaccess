@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Allow access from all domains for webfonts.
 # Alternatively you could only whitelist your
 # subdomains like subdomain.example.com.
@@ -5,4 +6,13 @@ IfModule mod_headers.c
   FilesMatch .(ttfttcotfeotwofffont.csscss)$
     Header set Access-Control-Allow-Origin 
   FilesMatch
+=======
+# Allow access from all domains for webfonts.
+# Alternatively you could only whitelist your
+# subdomains like subdomain.example.com.
+IfModule mod_headers.c
+  FilesMatch .(ttfttcotfeotwofffont.csscss)$
+    Header set Access-Control-Allow-Origin 
+  FilesMatch
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 IfModule

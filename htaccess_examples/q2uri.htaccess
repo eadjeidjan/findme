@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Options +FollowSymlinks
 RewriteEngine on
 RewriteRule ^(.*)\.htm$ /q2uri.php?search=$1 [NC]
 
+=======
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^(.*)\.htm$ /q2uri.php?search=$1 [NC]
+
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611

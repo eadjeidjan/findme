@@ -8,521 +8,905 @@
 	<loc>http://localhost/themes-customization/index.php/en/1/homepage</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/1/homepage"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/1/homepage"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/1/naslovnica</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/1/naslovnica"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/1/naslovnica"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/152</loc>
 	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/152"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/152"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/152</loc>
 	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/152"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/152"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/155/test_news_category</loc>
 	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/155/test_news_category"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/155/test_news_category"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/155/test_novost_kategorija</loc>
 	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/155/test_novost_kategorija"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/155/test_novost_kategorija"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/159/test_news_category_2</loc>
 	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/159/test_news_category_2"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/159/test_news_category_2"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/159/test_news_category_2</loc>
 	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/159/test_news_category_2"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/159/test_news_category_2"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/6/map</loc>
 	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/6/map"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/6/map"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/6/karta</loc>
 	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/6/karta"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/6/karta"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/151</loc>
 	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/151"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/151"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/151</loc>
 	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/151"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/151"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/169/agents</loc>
 	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/169/agents"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/169/agents"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/169/agenti</loc>
 	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/169/agenti"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/169/agenti"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/147/featured</loc>
 	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/147/featured"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/147/featured"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/147/izdvojene</loc>
 	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/147/izdvojene"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/147/izdvojene"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/5/about_us</loc>
 	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/5/about_us"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/5/about_us"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/5/o_nama</loc>
 	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/5/o_nama"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/5/o_nama"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/142/blog_page</loc>
 	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/142/blog_page"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/142/blog_page"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/142/blog_stranica</loc>
 	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/142/blog_stranica"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/142/blog_stranica"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/145/full</loc>
 	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/145/full"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/145/full"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/145/full</loc>
 	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/145/full"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/145/full"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/143/custom_search</loc>
 	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/143/custom_search"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/143/custom_search"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/143/prilagodeni_pretrazivac</loc>
 	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/143/prilagodeni_pretrazivac"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/143/prilagodeni_pretrazivac"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/3/rent</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/3/rent"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/3/rent"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/3/najam</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/3/najam"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/3/najam"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/2/sale</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/2/sale"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/2/sale"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/2/prodaja</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/2/prodaja"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/2/prodaja"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/144/sale_and_rent</loc>
 	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/144/sale_and_rent"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/144/sale_and_rent"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/144/prodaja_i_najam</loc>
 	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/144/prodaja_i_najam"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/144/prodaja_i_najam"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/146/google_link</loc>
 	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/146/google_link"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/146/google_link"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/146/google_link</loc>
 	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/146/google_link"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/146/google_link"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/154/test_news</loc>
 	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/154/test_news"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/154/test_news"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/154/test_novost</loc>
 	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/154/test_novost"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/154/test_novost"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/157/articles</loc>
 	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/157/articles"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/157/articles"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/157/clanci</loc>
 	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/157/clanci"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/157/clanci"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/158/test_article_2</loc>
 	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/158/test_article_2"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/158/test_article_2"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/158/test_clanak_2</loc>
 	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/158/test_clanak_2"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/158/test_clanak_2"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/160/showroom</loc>
 	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/160/showroom"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/160/showroom"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/160/showroom</loc>
 	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/160/showroom"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/160/showroom"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/156/article_test</loc>
 	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/156/article_test"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/156/article_test"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/156/test_clanak</loc>
 	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/156/test_clanak"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/156/test_clanak"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/161/ask_expert</loc>
 	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/161/ask_expert"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/161/ask_expert"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/161/pitaj_eksperta</loc>
 	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/161/pitaj_eksperta"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/161/pitaj_eksperta"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/173/treefield_sitemap</loc>
 	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/173/treefield_sitemap"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/173/treefield_sitemap"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/173/treefield_sitemap</loc>
 	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/173/treefield_sitemap"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/173/treefield_sitemap"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/en/4/contact</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="hr"
         href="http://localhost/themes-customization/index.php/hr/4/contact"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="hr"
+        href="http://localhost/themes-customization/index.php/hr/4/contact"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/hr/4/kontakt</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
+<<<<<<< HEAD
     <xhtml:link
         rel="alternate"
         hreflang="en"
         href="http://localhost/themes-customization/index.php/en/4/kontakt"
     />
+=======
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/themes-customization/index.php/en/4/kontakt"
+    />
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
 </url>
 <url>
 	<loc>http://localhost/themes-customization/index.php/property/14/en/black_glass_house</loc>

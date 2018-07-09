@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "omnipay/authorizenet",
     "type": "library",
@@ -39,3 +40,46 @@
         }
     }
 }
+=======
+{
+    "name": "omnipay/authorizenet",
+    "type": "library",
+    "description": "Authorize.Net gateway for the Omnipay payment processing library",
+    "keywords": [
+        "authorize net",
+        "authorize",
+        "authorize.net",
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment"
+    ],
+    "homepage": "https://github.com/thephpleague/omnipay-authorizenet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Macneil",
+            "email": "adrian@adrianmacneil.com"
+        },
+        {
+            "name": "Omnipay Contributors",
+            "homepage": "https://github.com/thephpleague/omnipay-authorizenet/contributors"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\AuthorizeNet\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.2"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RewriteEngine on
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -6,3 +7,13 @@ RewriteRule ^(.*)$ index.php?/$1 [L]
 
 
 
+=======
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+
+
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611

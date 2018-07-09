@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Options +FollowSymlinks
 RewriteEngine on
 
@@ -9,3 +10,16 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
 
 
+=======
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^(.*)\.htm$ /q2uri.php?search=$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI}!.*\.htm
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611

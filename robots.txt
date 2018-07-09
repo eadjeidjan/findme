@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow: /admin/
 Disallow: /admin-assets/
 Disallow: /frontend/
 
 
+=======
+User-agent: *
+Disallow: /admin/
+Disallow: /admin-assets/
+Disallow: /frontend/
+
+
+>>>>>>> 4dfe86f77d39b7998deb2341e5ec33b0208b1611
